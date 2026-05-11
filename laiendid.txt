@@ -1,0 +1,9 @@
+txt
+exe
+sh
+py
+ps1
+psm1
+bat
+docx
+xlsx
